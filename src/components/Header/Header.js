@@ -16,7 +16,7 @@ const Header = () => {
 
 
                     <button className = "btn btn-primary">Register</button>
-                  <Link to="/events">  <button className = "btn btn-dark">Admin</button> </Link>
+                  
 
                 </nav>
       </div>
