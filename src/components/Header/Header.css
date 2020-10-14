@@ -1,0 +1,31 @@
+.header nav{
+  line-height: 65px;
+  font-size: 25px;
+  margin-right: 10%;
+  text-decoration: none;
+}
+.header img{
+  height: 60px;
+  width:auto;
+  margin-left:80px;
+}
+.header{
+  margin-top:40px;
+}
+
+nav a{
+  text-align: right;
+  color: black;
+  margin-right: 30px;
+  padding: 5px;
+  margin-top: 10px;
+  text-decoration: none;
+
+  
+}
+
+.btn{
+  margin-left:20px;
+  width : 140px;
+
+}
